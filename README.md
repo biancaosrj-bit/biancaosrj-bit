@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Bianca Di Marco 👋
 
-<!--
-**biancaosrj-bit/biancaosrj-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer Júnior em formação | Software Testing | API Testing | Postman | SQL
 
-Here are some ideas to get you started:
+Sou profissional em transição de carreira para a área de Quality Assurance (QA), atualmente em formação como Analista de QA pela TripleTen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Após 17 anos de experiência na indústria farmacêutica, estou direcionando minha carreira para Tecnologia, desenvolvendo conhecimentos em testes de software e buscando minha primeira oportunidade profissional na área de QA.
+
+### 🧪 Conhecimentos em QA
+
+* Testes funcionais
+* Elaboração de casos de teste
+* Classes de equivalência e análise de valor-limite
+* Testes de API com Postman
+* SQL e PostgreSQL
+* Testes em ambiente mobile com Android Studio
+* Linux
+* JSON
+* Jira
+* VS Code
+
+### 📚 Atualmente estudando
+
+* Automação de testes
+* Python
+* Selenium
+* Git e GitHub
+
+### 🎯 Objetivo
+
+Iniciar minha carreira como QA Engineer Júnior, aplicando meus conhecimentos, adquirindo experiência prática e evoluindo profissionalmente na área de Tecnologia.
+
+📍 Cascais, Portugal
+
