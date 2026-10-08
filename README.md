@@ -48,26 +48,31 @@ Tenho interesse em entender como as aplicações funcionam, identificar comporta
 
 ---
 
-## 📂 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔌 QA API Testing — Postman
+### 🧪 Sprint 1 — Testes Funcionais
+Descrição...
+🔗 [Acessar projeto](LINK)
 
-Projeto de testes de API desenvolvido durante a formação em QA, com foco na criação e execução de requisições HTTP, validação de códigos de status, respostas em JSON, cenários positivos e negativos e documentação de casos de teste.
+### 📋 Sprint 2 — Design de Testes
+Descrição...
+🔗 [Acessar projeto](LINK)
 
-🔗 [Acessar projeto](https://github.com/biancaosrj-bit/qa-api-testing-postman)
+### 🌐 Sprint 3 — Testes de Aplicações Web
+Descrição...
+🔗 [Acessar projeto](LINK)
 
-### 📱 Testes Funcionais Mobile — Android Studio
+### 🔌 Sprint 4 — API Testing & Postman
+Descrição...
+🔗 [Acessar projeto](LINK)
 
-Projeto prático de testes funcionais em ambiente mobile, desenvolvido durante a formação em Quality Assurance, envolvendo validação de funcionalidades, diferentes cenários de uso e identificação e documentação de possíveis falhas.
+### 📱 Sprint 5 — Testes Mobile
+Descrição...
+🔗 [Acessar projeto](LINK)
 
-### 🧪 Testes Funcionais de Aplicação
-
-Projeto prático de testes funcionais desenvolvido durante a formação em QA, envolvendo análise de requisitos, elaboração e execução de casos de teste, classes de equivalência, análise de valor-limite e identificação de possíveis bugs.
-
-### 🗄️ Testes e Consultas com SQL
-
-Projeto prático desenvolvido durante a formação em QA, com utilização de SQL e PostgreSQL para realização de consultas, filtragem, análise e validação de dados em banco de dados relacional.
-
+### 🗄️ Sprint 6 — SQL e Banco de Dados
+Descrição...
+🔗 [Acessar projeto](LINK)
 ---
 
 ## 🌱 Minha Transição de Carreira
