@@ -48,32 +48,46 @@ Tenho interesse em entender como as aplicações funcionam, identificar comporta
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🧪 Sprint 1 — Testes Funcionais
-Descrição...
-🔗 [Acessar projeto](LINK)
+### 🧪 Sprint 1 — Fundamentos de QA e Testes Funcionais
 
-### 📋 Sprint 2 — Design de Testes
-Descrição...
-🔗 [Acessar projeto](LINK)
+Projeto desenvolvido durante a formação em QA Engineer, com foco nos fundamentos de Quality Assurance, análise de requisitos, planejamento de testes, elaboração de casos de teste e validação de funcionalidades.
 
-### 🌐 Sprint 3 — Testes de Aplicações Web
-Descrição...
-🔗 [Acessar projeto](LINK)
+🔗 [Acessar projeto](https://docs.google.com/spreadsheets/d/1d-BJ1xjzhJAYh5gCM-PiMzHGyHFHkkS5/edit?usp=sharing&ouid=117223689356565188618&rtpof=true&sd=true)
 
-### 🔌 Sprint 4 — API Testing & Postman
-Descrição...
-🔗 [Acessar projeto](LINK)
+### 📋 Sprint 2 — Planejamento e Execução de Testes
+
+Projeto de testes manuais com aplicação de técnicas de elaboração e execução de casos de teste, identificação de cenários e validação do comportamento esperado das funcionalidades.
+
+🔗 [Acessar projeto](https://docs.google.com/spreadsheets/d/1X9aNfDbfYhVcGHTJdMnmwWysAAAvjSYS/edit?usp=sharing&ouid=117223689356565188618&rtpof=true&sd=true)
+
+### 🌐 Sprint 3 — Testes Web
+
+Projeto voltado para testes de aplicações Web, envolvendo análise de requisitos, criação e execução de casos de teste, validação funcional e identificação de possíveis falhas durante os fluxos da aplicação.
+
+🔗 [Acessar projeto](https://docs.google.com/document/d/1wJ6m5k-ofA3-LhGTVt_CKppAjXD81-Yd/edit)
+
+### 🔌 Sprint 4 — Testes de API com Postman
+
+Projeto de testes manuais de API utilizando Postman, com validação de requisições e respostas, códigos HTTP, parâmetros, dados de entrada e diferentes cenários de teste.
+
+🔗 [Acessar projeto](https://docs.google.com/spreadsheets/d/1Ge95YF7f7DI6ys38V6dczxKbdQ4YSxms/edit?usp=sharing&ouid=117223689356565188618&rtpof=true&sd=true)
 
 ### 📱 Sprint 5 — Testes Mobile
-Descrição...
-🔗 [Acessar projeto](LINK)
 
-### 🗄️ Sprint 6 — SQL e Banco de Dados
-Descrição...
-🔗 [Acessar projeto](LINK)
+Projeto de testes manuais de aplicação mobile, com foco na validação de funcionalidades, execução de cenários de teste, identificação de comportamentos inesperados e reporte de possíveis defeitos.
+
+🔗 [Acessar projeto](https://docs.google.com/spreadsheets/d/1m2t7GsHO3BRSrrpK4De7LSgfj_2mt_0OaQoAKhId4UM/edit?usp=sharing)
+
+### 🗄️ Sprint 6 — Testes de Banco de Dados com SQL
+
+Projeto com foco na utilização de SQL para consulta e validação de dados, incluindo execução de queries, filtros, ordenação e análise das informações armazenadas em banco de dados.
+
+🔗 [Acessar projeto](https://docs.google.com/document/d/1dOiQwkQlm0LFUQpzORW6x2h-HoHFqAseKcJ_AD6CY4Y/edit)
+
 ---
+
 
 ## 🌱 Minha Transição de Carreira
 
